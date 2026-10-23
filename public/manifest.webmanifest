@@ -1,0 +1,11 @@
+{
+  "name": "ClickFlow",
+  "short_name": "ClickFlow",
+  "description": "Screenshot click-flow diagrams, stored only in your browser.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eceef1",
+  "theme_color": "#eceef1",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
